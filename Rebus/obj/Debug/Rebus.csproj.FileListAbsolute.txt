@@ -1,0 +1,54 @@
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\bin\Debug\Rebus.exe.config
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\bin\Debug\REBUS.mdf
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\bin\Debug\REBUS_log.ldf
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\bin\Debug\Rebus.exe
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\bin\Debug\Rebus.pdb
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\obj\Debug\Rebus.csprojResolveAssemblyReference.cache
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\obj\Debug\Rebus.logareForm.resources
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\obj\Debug\Rebus.inregistrareForm.resources
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\obj\Debug\Rebus.rebusForm.resources
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\obj\Debug\Rebus.Properties.Resources.resources
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\obj\Debug\Rebus.csproj.GenerateResource.Cache
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\obj\Debug\Rebus.exe
+c:\users\chosen\documents\visual studio 2015\Projects\Rebus\Rebus\obj\Debug\Rebus.pdb
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\bin\Debug\Rebus.exe.config
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.exe
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.pdb
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\bin\Debug\REBUS.mdf
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\bin\Debug\REBUS_log.ldf
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\bin\Debug\Rebus.exe
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\bin\Debug\Rebus.pdb
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.csprojResolveAssemblyReference.cache
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.logareForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.inregistrareForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.rebusForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.Properties.Resources.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.csproj.GenerateResource.Cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\bin\Debug\REBUS.mdf
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\bin\Debug\REBUS_log.ldf
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\bin\Debug\Rebus.exe.config
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\bin\Debug\Rebus.exe
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\bin\Debug\Rebus.pdb
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.csprojResolveAssemblyReference.cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.logareForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.inregistrareForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.rebusForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.Properties.Resources.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.csproj.GenerateResource.Cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.csproj.CoreCompileInputs.cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.exe
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_nat_Rebus\Rebus\obj\Debug\Rebus.pdb
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\bin\Debug\REBUS.mdf
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\bin\Debug\REBUS_log.ldf
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\bin\Debug\Rebus.exe.config
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\bin\Debug\Rebus.exe
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\bin\Debug\Rebus.pdb
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Debug\Rebus.csprojResolveAssemblyReference.cache
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Debug\Rebus.logareForm.resources
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Debug\Rebus.inregistrareForm.resources
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Debug\Rebus.rebusForm.resources
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Debug\Rebus.Properties.Resources.resources
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Debug\Rebus.csproj.GenerateResource.Cache
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Debug\Rebus.csproj.CoreCompileInputs.cache
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Debug\Rebus.exe
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Debug\Rebus.pdb

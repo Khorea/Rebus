@@ -1,0 +1,13 @@
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\bin\Release\REBUS.mdf
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\bin\Release\REBUS_log.ldf
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\bin\Release\Rebus.exe.config
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\bin\Release\Rebus.exe
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\bin\Release\Rebus.pdb
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Release\Rebus.logareForm.resources
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Release\Rebus.inregistrareForm.resources
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Release\Rebus.rebusForm.resources
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Release\Rebus.Properties.Resources.resources
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Release\Rebus.csproj.GenerateResource.Cache
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Release\Rebus.csproj.CoreCompileInputs.cache
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Release\Rebus.exe
+C:\Users\horea\Documents\GitHub\Rebus\Rebus\obj\Release\Rebus.pdb
